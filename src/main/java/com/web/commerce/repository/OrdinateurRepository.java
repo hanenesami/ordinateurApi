@@ -122,5 +122,11 @@ public class OrdinateurRepository {
 
     }
 
+    public void recher(){
+
+        String test;
+        test="tata";
+    }
+
 }
 
