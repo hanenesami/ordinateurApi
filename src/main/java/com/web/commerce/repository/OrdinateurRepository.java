@@ -123,7 +123,8 @@ public class OrdinateurRepository {
     }
 
     public void recherchebase(){
-        String t="test1";
+
+        String b1="test1";
     }
 
 }
