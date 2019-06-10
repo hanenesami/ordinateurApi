@@ -138,10 +138,5 @@ public class OrdinateurRepository {
         test3="toto";
     }
 
-    public void recherche3(){
-        String test3;
-        test3="toto";
-    }
-
 }
 
