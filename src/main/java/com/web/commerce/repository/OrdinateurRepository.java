@@ -125,6 +125,7 @@ public class OrdinateurRepository {
     public void recherchebase(){
 
         String b1="test1";
+        String b="test2";
     }
 
 }
