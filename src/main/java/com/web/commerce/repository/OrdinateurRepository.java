@@ -138,5 +138,10 @@ public class OrdinateurRepository {
         test3="toto";
     }
 
+    public void b1(){
+        String bi;
+        bi="test";
+    }
+
 }
 
