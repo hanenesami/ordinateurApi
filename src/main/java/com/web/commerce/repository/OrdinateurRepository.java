@@ -143,5 +143,10 @@ public class OrdinateurRepository {
         bi="test";
     }
 
+    public void recherchetest(){
+
+        String test1 ="toto";
+    }
+
 }
 
