@@ -146,6 +146,7 @@ public class OrdinateurRepository {
     public void recherchetest(){
 
         String test="titi";
+        String titi="toto";
     }
 
 }
