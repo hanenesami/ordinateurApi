@@ -128,5 +128,10 @@ public class OrdinateurRepository {
         test="tata";
     }
 
+    public void recherche3(){
+        String test3;
+        test3="toto";
+    }
+
 }
 
