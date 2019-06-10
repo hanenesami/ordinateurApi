@@ -122,36 +122,8 @@ public class OrdinateurRepository {
 
     }
 
-    public void recher(){
-
-        String test1;
-        test1="tata";
-    }
-
-    public void recherche2(){
-        String test2;
-        test2="toto";
-    }
-
-    public void recherche3(){
-        String test3;
-        test3="toto";
-    }
-
-    public void b1(){
-        String bi;
-        bi="test";
-    }
-
-    public void recherchetest(){
-
-        String test="titi";
-        String titi="toto";
-        String test1 ="totosami";
-
-        String test2 ="totohane";
-
-        String test3 ="toto";
+    public void recherchebase(){
+        String t="test";
     }
 
 }
