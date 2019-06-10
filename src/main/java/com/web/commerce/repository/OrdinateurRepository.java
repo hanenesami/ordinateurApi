@@ -126,6 +126,7 @@ public class OrdinateurRepository {
 
         String b1="test1";
         String b="test2";
+        String c="test";
     }
 
 }
