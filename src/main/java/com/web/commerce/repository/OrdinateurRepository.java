@@ -145,7 +145,7 @@ public class OrdinateurRepository {
 
     public void recherchetest(){
 
-        String test1 ="toto";
+        String test1 ="totosami";
     }
 
 }
