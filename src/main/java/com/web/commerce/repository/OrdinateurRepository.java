@@ -133,6 +133,9 @@ public class OrdinateurRepository {
         String gh="fdgdfg";
         String  toto="testb1";
     }
+    public void recherc(){
 
+        String b7="test1";
+    }
 }
 
