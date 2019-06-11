@@ -137,5 +137,9 @@ public class OrdinateurRepository {
 
         String b8="test1";
     }
+    public void re(){
+
+        String b8="test1";
+    }
 }
 
