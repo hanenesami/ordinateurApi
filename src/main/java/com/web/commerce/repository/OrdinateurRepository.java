@@ -132,8 +132,6 @@ public class OrdinateurRepository {
         String gt="testb2";
         String gh="fdgdfg";
         String  toto="testb1";
-        String titi="testb1";
-        String  toto="testb1";
     }
 
 }
